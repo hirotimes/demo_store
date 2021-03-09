@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "275079973198",
+    "project_id": "fir-firestore-1bfb3",
+    "storage_bucket": "fir-firestore-1bfb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275079973198:android:ec23a676104f0339adf61f",
+        "android_client_info": {
+          "package_name": "com.hirotimes.demo_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275079973198-bcv33c29sm5tii615bqlmj4pj9tffg24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_AjEvrcenV1cxUWeejaTsj_q5VxjtJGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275079973198-bcv33c29sm5tii615bqlmj4pj9tffg24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
